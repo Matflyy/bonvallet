@@ -1,0 +1,88 @@
+[03:29:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:29:43] [ServerMain/INFO]: Loaded 1461 recipes
+[03:29:43] [ServerMain/INFO]: Loaded 1574 advancements
+[03:29:43] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[03:29:43] [Server thread/INFO]: Loading properties
+[03:29:43] [Server thread/INFO]: Default game type: SURVIVAL
+[03:29:43] [Server thread/INFO]: Generating keypair
+[03:29:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:29:44] [Server thread/INFO]: Using epoll channel type
+[03:29:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:29:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:29:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:29:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:29:44] [Server thread/INFO]: Preparing level "world"
+[03:29:44] [Server thread/INFO]: Loading 0 persistent chunks...
+[03:29:44] [Server thread/INFO]: Preparing spawn area: 100%
+[03:29:44] [Server thread/INFO]: Time elapsed: 19 ms
+[03:29:44] [Server thread/INFO]: Done (0.463s)! For help, type "help"
+[03:30:15] [Server thread/INFO]: The difficulty has been set to Hard
+[03:30:40] [Server thread/INFO]: Patolink[/127.109.241.14:50271] logged in with entity id 64 at (812.8730135016482, 66.0, -357.92670346171496)
+[03:30:40] [Server thread/INFO]: Patolink joined the game
+[03:32:36] [Server thread/INFO]: Patolink has made the advancement [Cover Me with Diamonds]
+[03:34:19] [Server thread/INFO]: Villager cyx['Farmer'/49, l='ServerLevel[world]', x=796.69, y=64.13, z=-391.53] died, message: 'Farmer was slain by Zombie'
+[03:34:31] [Server thread/INFO]: Villager cyx['Librarian'/55, l='ServerLevel[world]', x=791.95, y=65.19, z=-386.94] died, message: 'Librarian was slain by Zombie'
+[03:35:47] [Server thread/INFO]: Villager cyx['Farmer'/59, l='ServerLevel[world]', x=779.10, y=65.19, z=-380.56] died, message: 'Farmer was slain by Zombie'
+[03:36:22] [Server thread/INFO]: KazooieM[/127.56.198.185:48683] logged in with entity id 1466 at (764.9219613712195, 63.0, -339.0320688149896)
+[03:36:22] [Server thread/INFO]: KazooieM joined the game
+[03:37:44] [Server thread/INFO]: Patolink was blown up by Creeper
+[03:38:32] [Server thread/INFO]: KazooieM has made the advancement [Sweet Dreams]
+[03:41:12] [Server thread/INFO]: RiperShiro[/127.21.76.169:59935] logged in with entity id 2732 at (802.0940536112535, 65.0, -397.23750001192093)
+[03:41:12] [Server thread/INFO]: RiperShiro joined the game
+[03:41:35] [Server thread/INFO]: KazooieM has made the advancement [Diamonds!]
+[03:42:29] [Server thread/INFO]: KazooieM has made the advancement [Cover Me with Diamonds]
+[03:44:57] [Server thread/INFO]: Yoshi_psd[/127.169.190.71:53393] logged in with entity id 5059 at (804.7621573586273, 63.0, -353.70335761218655)
+[03:44:57] [Server thread/INFO]: Yoshi_psd joined the game
+[03:47:04] [Server thread/INFO]: KazooieM was slain by Spider
+[03:51:58] [Server thread/INFO]: RiperShiro was blown up by Creeper
+[03:52:39] [Server thread/INFO]: KazooieM drowned
+[03:54:19] [Server thread/INFO]: KazooieM was shot by Skeleton
+[03:54:59] [Server thread/INFO]: KazooieM was shot by Skeleton
+[03:55:50] [Server thread/INFO]: KazooieM was blown up by Creeper
+[03:56:08] [Server thread/INFO]: ReptilianoGX[/127.104.173.171:55837] logged in with entity id 12438 at (805.5137356102214, 63.0, -360.30000001192093)
+[03:56:08] [Server thread/INFO]: ReptilianoGX joined the game
+[04:00:48] [Server thread/INFO]: Patolink has made the advancement [Take Aim]
+[04:01:28] [Server thread/INFO]: KazooieM was shot by Skeleton
+[04:01:33] [Server thread/INFO]: RiperShiro has made the advancement [Suit Up]
+[04:01:48] [Server thread/INFO]: Patolink has made the advancement [Not Today, Thank You]
+[04:25:46] [Server thread/INFO]: KazooieM was slain by Zombie
+[04:27:36] [Server thread/INFO]: Yoshi_psd lost connection: Disconnected
+[04:27:36] [Server thread/INFO]: Yoshi_psd left the game
+[04:28:04] [Server thread/INFO]: KazooieM lost connection: Disconnected
+[04:28:04] [Server thread/INFO]: KazooieM left the game
+[04:30:33] [Server thread/INFO]: Yoshi_psd[/127.169.190.71:35789] logged in with entity id 47301 at (817.0831970448265, 66.0, -360.4051638546695)
+[04:30:33] [Server thread/INFO]: Yoshi_psd joined the game
+[04:40:22] [Server thread/INFO]: Yoshi_psd has made the advancement [Fishy Business]
+[04:42:38] [Server thread/INFO]: RiperShiro has made the advancement [Not Today, Thank You]
+[04:56:04] [Server thread/INFO]: RiperShiro was slain by Zombie
+[04:57:00] [Server thread/INFO]: Patolink was blown up by Creeper
+[05:02:43] [Server thread/INFO]: Patolink lost connection: Disconnected
+[05:02:43] [Server thread/INFO]: Patolink left the game
+[05:20:42] [Server thread/INFO]: RiperShiro was blown up by Creeper
+[05:25:08] [Server thread/INFO]: Yoshi_psd lost connection: Disconnected
+[05:25:08] [Server thread/INFO]: Yoshi_psd left the game
+[05:40:51] [Server thread/INFO]: RiperShiro was slain by Zombie
+[05:44:34] [Server thread/INFO]: RiperShiro fell from a high place
+[05:46:53] [Server thread/INFO]: RiperShiro was shot by Skeleton
+[05:57:04] [Server thread/INFO]: RiperShiro was slain by Zombie
+[05:57:26] [Server thread/INFO]: ReptilianoGX lost connection: Disconnected
+[05:57:26] [Server thread/INFO]: ReptilianoGX left the game
+[06:01:23] [Server thread/INFO]: RiperShiro was shot by Skeleton
+[06:06:49] [Server thread/INFO]: RiperShiro was shot by Skeleton
+[06:07:21] [Server thread/INFO]: RiperShiro was shot by Skeleton
+[06:07:48] [Server thread/INFO]: RiperShiro was shot by Skeleton
+[06:08:19] [Server thread/INFO]: RiperShiro was shot by Skeleton
+[06:08:50] [Server thread/INFO]: RiperShiro was shot by Skeleton
+[06:13:13] [Server thread/INFO]: RiperShiro lost connection: Disconnected
+[06:13:13] [Server thread/INFO]: RiperShiro left the game
+[06:13:25] [Server thread/INFO]: Stopping the server
+[06:13:26] [Server thread/INFO]: Stopping server
+[06:13:26] [Server thread/INFO]: Saving players
+[06:13:26] [Server thread/INFO]: Saving worlds
+[06:13:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:13:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:13:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:13:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:13:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:13:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:13:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
